@@ -1,0 +1,13 @@
+{
+  "entry": [
+    "main.ts"
+  ],
+  "ignoreUnresolved": [
+    "geojson"
+  ],
+  "ignoreUnused": [],
+  "ignorePatterns": [
+    "**/node_modules/**"
+  ],
+  "ignoreUnimported": []
+}

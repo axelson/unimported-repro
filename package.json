@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "lint1": "npx unimported@1.31.0",
+    "lint2": "npx unimported@1.30.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "name": "repro",
+  "version": "1.0.0",
+  "description": "Repro",
+  "main": "js/pages/main.tsx",
+  "author": "Jason",
+  "license": "MIT"
+}
